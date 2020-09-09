@@ -1,5 +1,6 @@
 package com.pavlova.homeworks.lecture_01;
 
+import java.io.Console;
 import java.util.Scanner;
 
 public class Main {
@@ -7,6 +8,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         Scanner sc = new Scanner(System.in);
+//        Console y =  new Console();
 
         //Task 1
         Task_1 task_1 = new Task_1();
